@@ -1,1 +1,3 @@
-# lda-demo
+# LDA
+
+topic modeling with lda
